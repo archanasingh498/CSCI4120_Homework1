@@ -1,1 +1,5 @@
-# CSCI4120_Homework1
+# Machine_Learning
+Group Members:
+ - Luis Vazquezlazaro
+ - John Sabin
+ - Archana Singh
